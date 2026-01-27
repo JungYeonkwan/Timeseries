@@ -17,11 +17,8 @@ XOR 문제는 입력 공간 (x1, x2)에서는 선형 분리가 불가능하지�
 
 XOR의 출력은 다음과 같이 정의된다.
 
-x1	x2	XOR
- 0	 0	 0
- 0	 1	 1
- 1	 0	 1
- 1	 1	 0
+<img width="842" height="303" alt="image" src="https://github.com/user-attachments/assets/1f7704af-05c8-4963-a812-ca6072d9d51e" />
+
 
 이때 입력 공간 (x1, x2)에서는
 XOR = 0 과 XOR = 1 을 하나의 직선으로 분리할 수 없다.
